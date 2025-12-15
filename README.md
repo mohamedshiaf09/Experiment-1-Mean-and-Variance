@@ -1,7 +1,7 @@
 # Experiment-1-Mean-and-Variance
 # Aim: 
 To find mean and variance of arrival objects from the feeder using probability distribution.
-
+ 
 # Software Required: Python and Visual Components tool
 
 # Theory: 
