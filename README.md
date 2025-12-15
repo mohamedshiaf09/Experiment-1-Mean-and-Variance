@@ -47,10 +47,10 @@ It is calculated as:
 
 # Program: 
 
-'''
-Name: Mohamed Shiaf N. 
-Reg No: 25018427. 
-Slot Name: 3P1-1. 
+```
+Name: Mohamed Shiaf N
+Reg No: 25018427
+Slot Name: 3P1-1
 
 import numpy as np 
  
@@ -86,7 +86,7 @@ print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 
 https://colab.research.google.com/drive/1R1ByqO6uwZrhekjj8Qrp42_iCdcBRXok?usp=sharing
 
-'''
+```
 
 
 
@@ -94,12 +94,12 @@ https://colab.research.google.com/drive/1R1ByqO6uwZrhekjj8Qrp42_iCdcBRXok?usp=sh
 
 
 # Output:
-'''
-Enter arrival data: 9 6 5 7 3 4 8 2 3 1. 
-The Mean arrival rate is 4.800. 
-The Variance of arrival from feeder is 6.360. 
-The Standard deviation of arrival from feeder is 2.522. 
-'''
+
+Enter arrival data: 9 6 5 7 3 4 8 2 3 1
+The Mean arrival rate is 4.800
+The Variance of arrival from feeder is 6.360
+The Standard deviation of arrival from feeder is 2.522
+
 # Result: 
 	The mean and variance of arrivals of objects from feeder using probability distribution are calculated. 
 
